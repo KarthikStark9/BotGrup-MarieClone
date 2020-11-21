@@ -515,7 +515,7 @@ __help__ = """
  - /clearjoin <on/off>: when someone joins, try to delete the *user* joined the group message.
  - /welcomehelp: view more formatting information for custom welcome/goodbye messages.
 
-""".format(WELC_HELP_TXT)
+""".format(Markdown)
 
 __mod_name__ = "Welcomes/Goodbyes"
 
